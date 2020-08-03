@@ -1,0 +1,5 @@
+print("Goodby world")
+
+1
+2
+3
